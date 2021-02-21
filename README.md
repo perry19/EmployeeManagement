@@ -10,3 +10,6 @@ The Backend (Spring Boot App) runs on port 8080 (http://localhost:8080)
 and the frontend runs on port 3000 ( http://localhost:3000)
 
 start the frontend module by running npm start.
+
+Screenshots
+![home](https://github.com/perry19/EmployeeManagement/blob/master/home.png "Home")
