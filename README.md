@@ -11,5 +11,6 @@ and the frontend runs on port 3000 ( http://localhost:3000)
 
 start the frontend module by running npm start.
 
-Screenshots
+#Home Screenshot
+
 ![home](https://github.com/perry19/EmployeeManagement/blob/master/home.png "Home")
